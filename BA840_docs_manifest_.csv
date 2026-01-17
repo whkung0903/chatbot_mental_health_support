@@ -1,0 +1,9 @@
+doc_id,title,source_url,file_path,doc_type,date_accessed,safety_tag
+nimh_caring_mental_health,NIMH – Caring for Your Mental Health,https://www.nimh.nih.gov/health/topics/caring-for-your-mental-health,data/text/nimh_caring_mental_health.txt,txt,2026-01-14,support
+nhs_5_steps_wellbeing,NHS – 5 steps to mental wellbeing,https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/five-steps-to-mental-wellbeing/,data/text/nhs_5_steps_wellbeing.txt,txt,2026-01-14,support
+nimh_depression,NIMH – Depression (publication),https://www.nimh.nih.gov/health/publications/depression,data/text/nimh_depression.txt,txt,2026-01-14,support
+cdc_mental_health_resources,CDC – Mental Health Resources (Caring for Mental Health),https://www.cdc.gov/mental-health/caring/index.html,data/text/cdc_mental_health_resources.txt,txt,2026-01-14,support
+apa_depression_cpg,APA Clinical Practice Guideline – Treatment of Depression Across Three Age Cohorts (PDF),https://drive.google.com/file/d/1q92EWXZJQv1SE2QO3p7tAbPTJtnK2oI3/view?usp=drive_link,data/pdfs/apa_depression_cpg.pdf,pdf,2026-01-14,clinical
+nhs_gad_panic_primary_care_guideline,Guidelines for the Treatment of GAD and Panic Disorders in Primary Care (PDF),https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf,data/pdfs/nhs_gad_panic_primary_care_guideline.pdf,pdf,2026-01-14,clinical
+self_help_anxiety_guide,Anxiety self-help guide (PDF),https://drive.google.com/file/d/1bdLAw3stv871oSXhmGcnkmnlgTJwmroJ/view?usp=drive_link,data/pdfs/self_help_anxiety_guide.pdf,pdf,2026-01-14,support
+self_help_depression_guide,Depression self-help guide (PDF),https://drive.google.com/file/d/1EduBXLnvcjIPEPq1UN1JPa206br9N2c7/view?usp=drive_link,data/pdfs/self_help_depression_guide.pdf,pdf,2026-01-14,support
